@@ -35,7 +35,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxiscoding&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paradoxiscoding&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
