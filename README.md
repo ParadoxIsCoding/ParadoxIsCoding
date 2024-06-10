@@ -10,10 +10,10 @@
 
 ## ⭐About me 
 
-
-
 🔭I'm current working on [Iron Lions | FTC 24089](https://github.com/Marlstar/FTC24089), apart of the [First Tech Challange](https://www.firstinspires.org/robotics/ftc). <br>
 🌱 Currently learning the use of Open CV with Occupancy Networks. 
+
+## 💻 Stats 
 
 <div align="center">
   <picture>
@@ -23,7 +23,7 @@
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true" />
   </picture>
