@@ -2,6 +2,7 @@
   
 # Hi 👋, I'm Paradox 
 <hr>
+<div align="left">
 
 ## love starting new projects but never finishing them :) 
 
