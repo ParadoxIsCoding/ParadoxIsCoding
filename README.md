@@ -32,3 +32,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxiscoding" />
   </a>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=paradoxiscoding=onedark)](https://github.com/ryo-ma/github-profile-trophy)
