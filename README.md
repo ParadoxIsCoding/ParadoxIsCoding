@@ -13,7 +13,6 @@
 
 
 🔭I'm current working on [Iron Lions | FTC 24089](https://github.com/Marlstar/FTC24089), apart of the [First Tech Challange](https://www.firstinspires.org/robotics/ftc).
-
 🌱 Currently learning the use of Open CV with Occupancy Networks. 
 
 <div align="center">
