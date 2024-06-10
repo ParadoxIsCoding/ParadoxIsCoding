@@ -1,5 +1,6 @@
 <div align="center">
-## Hi 👋, I'm Paradox 
+  
+# Hi 👋, I'm Paradox 
 <hr>
 ### love starting new projects but never finishing them :) 
 
