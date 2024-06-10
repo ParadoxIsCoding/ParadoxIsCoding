@@ -1,4 +1,13 @@
 <div align="center">
+## Hi 👋, I'm Paradox 
+<hr>
+### love starting new projects but never finishing them :) 
+
+## About me 
+
+
+
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true&theme=dark"
