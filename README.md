@@ -12,7 +12,7 @@
 
 
 
-I'm current working on [Iron Lions | FTC 24089](https://github.com/Marlstar/FTC24089)
+I'm current working on [Iron Lions | FTC 24089](https://github.com/Marlstar/FTC24089), apart of the [First Tech Challange](https://www.firstinspires.org/robotics/ftc) 
 
 <div align="center">
   <picture>
