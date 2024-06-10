@@ -36,4 +36,5 @@
 <div align="center">
 
 https://github-profile-trophy.vercel.app/?username=paradoxiscoding&column=2
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=paradoxiscoding&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
