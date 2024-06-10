@@ -21,7 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxiscoding&langs_count=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paradoxiscoding&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxiscoding&langs_count=8)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
