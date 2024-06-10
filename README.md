@@ -39,4 +39,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=paradoxiscoding&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
