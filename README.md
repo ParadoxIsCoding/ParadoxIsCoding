@@ -10,8 +10,9 @@
 
 ## ⭐About me 
 
-🔭I'm current working on [Iron Lions | FTC 24089](https://github.com/Marlstar/FTC24089), a part of the [First Tech Challange](https://www.firstinspires.org/robotics/ftc). <br>
+🤖I'm current working on [Iron Lions | FTC 24089](https://github.com/Marlstar/FTC24089), a part of the [First Tech Challange](https://www.firstinspires.org/robotics/ftc). <br>
 🌱 Currently learning the use of Open CV with Occupancy Networks. 
+Contact me 
 
 ## 💻 Stats 
 
