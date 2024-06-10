@@ -17,6 +17,8 @@ Contact me
 ## 💻 Stats 
 
 <div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=paradoxiscoding&icon=1&color=0)](https://visitcount.itsvg.in)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
