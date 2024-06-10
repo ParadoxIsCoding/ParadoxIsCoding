@@ -1,14 +1,16 @@
 <div align="center">
   
 # Hi 👋, I'm Paradox 
-<hr>
-<div align="left">
+
+
 
 ## love starting new projects but never finishing them :) 
 
+<div align="left">
+
 ## About me 
 
-<hr>
+
 
 I'm current working on [Iron Lions | FTC 24089](https://github.com/Marlstar/FTC24089)
 
