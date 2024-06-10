@@ -40,4 +40,6 @@
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20can%E2%80%99t%20connect%20the%20dots%20looking%20forward%3B%20you%20can%20only%20connect%20them%20looking%20backwards.%20So%20you%20have%20to%20trust%20that%20the%20dots%20will%20somehow%20connect%20in%20your%20future.%20-%20Steve%20Jobs
+)
