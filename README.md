@@ -2,11 +2,14 @@
   
 # Hi 👋, I'm Paradox 
 <hr>
-### love starting new projects but never finishing them :) 
+
+## love starting new projects but never finishing them :) 
 
 ## About me 
 
+<hr>
 
+I'm current working on [Iron Lions | FTC 24089](https://github.com/Marlstar/FTC24089)
 
 <div align="center">
   <picture>
