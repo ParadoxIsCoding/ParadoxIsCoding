@@ -22,8 +22,8 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true"
-      media="(prefers-color-scheme: dark)"
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxiscoding&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
     />
     <img src="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&theme=dark&show_icons=true" />
   </picture>
