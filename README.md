@@ -25,7 +25,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&theme=dark&show_icons=true" />
   </picture>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
