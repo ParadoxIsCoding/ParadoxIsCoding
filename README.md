@@ -15,25 +15,7 @@
 
 ## 💻 Stats 
 
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-    
-
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=paradoxiscoding&theme=dark&show_icons=true" />
-  </picture>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxiscoding" />
-  </a>
-</div>
-
-<div align="center">
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paradoxiscoding&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
