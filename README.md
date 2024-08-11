@@ -1,10 +1,4 @@
-<div align="center">
-  
-# Hi 👋, I'm Paradox 
 
-
-
-## love starting new projects but never finishing them :) 
 
 <div align="left">
 
