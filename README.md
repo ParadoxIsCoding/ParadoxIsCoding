@@ -11,6 +11,5 @@ Contact me on discord @ [Paradox.py](https://discord.com/users/73356840408199993
 
 <div align="center">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=paradoxiscoding&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+[![Taha's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParadoxIsCoding&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
