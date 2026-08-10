@@ -11,5 +11,4 @@ Contact me on discord @ [Paradox.py](https://discord.com/users/73356840408199993
 
 <div align="center">
 
-[![Taha's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParadoxIsCoding&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![Taha's GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParadoxIsCoding&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
